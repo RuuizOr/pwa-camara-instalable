@@ -1,7 +1,7 @@
 // ===============================
 // Service Worker - Cache First
 // ===============================
-const NOMBRE_CACHE = 'inspeccion-pwa-v2';
+const NOMBRE_CACHE = 'inspeccion-pwa-v3';
 
 const ARCHIVOS_PRECACHE = [
   './',
