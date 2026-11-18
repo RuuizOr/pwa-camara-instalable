@@ -35,6 +35,21 @@ body {
 
 .encabezado h1 { font-size: 1.15rem; }
 
+.encabezado-derecha {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.autor {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--primario);
+  text-align: right;
+}
+
 .contenedor {
   flex: 1;
   width: 100%;
